@@ -1,0 +1,16 @@
+employee,department,city,salary
+John Smith,IT,New York,75000
+Priya Sharma,HR,Mumbai,65000
+David Brown,Finance,London,82000
+Maria Garcia,Marketing,Paris,70000
+Ahmed Khan,IT,Dubai,78000
+Lisa Wilson,Sales,Chicago,62000
+Raj Patel,Finance,Bangalore,85000
+Emily Davis,HR,Toronto,68000
+Michael Lee,Marketing,Sydney,72000
+Sophia Clark,IT,San Francisco,90000
+Daniel Kim,Sales,Seoul,64000
+Ananya Rao,Finance,Delhi,80000
+James Miller,IT,Berlin,77000
+Olivia Taylor,HR,Melbourne,69000
+Carlos Martinez,Marketing,Madrid,71000
